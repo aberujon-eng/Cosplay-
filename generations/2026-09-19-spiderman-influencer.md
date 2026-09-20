@@ -64,6 +64,15 @@ du personnage.
 - generation_id: `a2d41ffd-7021-4b9c-9efa-c926f9d5974c`
 - URL: https://cdn.alexya.ai/b9d691f5-3a79-46a0-867f-8000ee40b1ce/images/output/generated-1789929950394.jpg
 
-Coût total : 495 crédits Alexya (5 × 55 pour la série initiale + 55 pour la
+### 6bis. Chambre — tenue de soirée, version photoréaliste (2026-09-20)
+Même image que 6, avec passage photoréalisme : texture de peau naturelle,
+asymétrie légère, mèches folles, décor légèrement désordonné (drap froissé,
+buée/traces sur le miroir, câble qui traîne), grain photo léger, flou/distorsion
+d'objectif discrets — pour casser l'aspect "rendu IA trop lisse".
+- generation_id: `8a8d5470-a1d6-4477-b121-f96919f07b6e`
+- URL: https://cdn.alexya.ai/b9d691f5-3a79-46a0-867f-8000ee40b1ce/images/output/generated-1789931360964.jpg
+
+Coût total : 550 crédits Alexya (5 × 55 pour la série initiale + 55 pour la
 variante brassière/short + 55 pour le téléphone retourné [rejeté] + 55 pour la
-correction dos du téléphone + 55 pour la tenue de soirée, mode high_quality).
+correction dos du téléphone + 55 pour la tenue de soirée + 55 pour la version
+photoréaliste, mode high_quality).
