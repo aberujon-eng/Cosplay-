@@ -31,8 +31,15 @@ une durée de vie limitée côté Alexya.
 - generation_id: `2f990dd9-9067-48fd-b707-efdd9767e778`
 - URL: https://cdn.alexya.ai/b9d691f5-3a79-46a0-867f-8000ee40b1ce/images/output/generated-1789814281240.jpg
 
+### 4bis. Salle de sport — variante brassière + short (2026-09-20)
+Remplace la combinaison Spider-Man par une tenue de sport (brassière + short),
+même visage/coiffure/décor/pose, généré en image-à-image à partir de l'image 4.
+- generation_id: `86ca4b3a-193b-444b-b5b2-79de68323084`
+- URL: https://cdn.alexya.ai/b9d691f5-3a79-46a0-867f-8000ee40b1ce/images/output/generated-1789926230859.jpg
+
 ## 5. Terrasse (golden hour)
 - generation_id: `6977b28a-a4d8-46c6-9be4-f2eab7803b11`
 - URL: https://cdn.alexya.ai/b9d691f5-3a79-46a0-867f-8000ee40b1ce/images/output/generated-1789814281404.jpg
 
-Coût total : 275 crédits Alexya (5 × 55, mode high_quality).
+Coût total : 330 crédits Alexya (5 × 55 pour la série initiale + 55 pour la
+variante brassière/short, mode high_quality).
