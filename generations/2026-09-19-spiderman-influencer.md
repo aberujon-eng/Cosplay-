@@ -37,9 +37,15 @@ même visage/coiffure/décor/pose, généré en image-à-image à partir de l'im
 - generation_id: `86ca4b3a-193b-444b-b5b2-79de68323084`
 - URL: https://cdn.alexya.ai/b9d691f5-3a79-46a0-867f-8000ee40b1ce/images/output/generated-1789926230859.jpg
 
+### 4ter. Salle de sport — écran du téléphone retourné (2026-09-20)
+Même image que 4bis, téléphone retourné pour montrer l'écran allumé
+(interface appareil photo) dans le reflet du miroir au lieu du dos du téléphone.
+- generation_id: `b41a287f-b4f2-4388-b049-9ae19658b0dc`
+- URL: https://cdn.alexya.ai/b9d691f5-3a79-46a0-867f-8000ee40b1ce/images/output/generated-1789926442429.jpg
+
 ## 5. Terrasse (golden hour)
 - generation_id: `6977b28a-a4d8-46c6-9be4-f2eab7803b11`
 - URL: https://cdn.alexya.ai/b9d691f5-3a79-46a0-867f-8000ee40b1ce/images/output/generated-1789814281404.jpg
 
-Coût total : 330 crédits Alexya (5 × 55 pour la série initiale + 55 pour la
-variante brassière/short, mode high_quality).
+Coût total : 385 crédits Alexya (5 × 55 pour la série initiale + 55 pour la
+variante brassière/short + 55 pour le téléphone retourné, mode high_quality).
