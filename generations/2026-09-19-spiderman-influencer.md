@@ -54,6 +54,16 @@ reflet du miroir, écran caché côté opposé (face à elle). Généré à part
 - generation_id: `6977b28a-a4d8-46c6-9be4-f2eab7803b11`
 - URL: https://cdn.alexya.ai/b9d691f5-3a79-46a0-867f-8000ee40b1ce/images/output/generated-1789814281404.jpg
 
-Coût total : 440 crédits Alexya (5 × 55 pour la série initiale + 55 pour la
+## 6. Chambre — tenue de soirée, sac Zadig & Voltaire (2026-09-20)
+Même visage/coiffure que l'image 1 (référence). Tenue de soirée inspirée d'une
+photo fournie par l'utilisateur (top pailleté, jupe blanche à volants, bottes
+suédées beiges) avec sac noir style Zadig & Voltaire (au lieu du sac doré de la
+photo de référence). Visage non masqué par le téléphone, contrairement à la
+photo de référence, pour rester cohérent avec l'expression sérieuse/romantique
+du personnage.
+- generation_id: `a2d41ffd-7021-4b9c-9efa-c926f9d5974c`
+- URL: https://cdn.alexya.ai/b9d691f5-3a79-46a0-867f-8000ee40b1ce/images/output/generated-1789929950394.jpg
+
+Coût total : 495 crédits Alexya (5 × 55 pour la série initiale + 55 pour la
 variante brassière/short + 55 pour le téléphone retourné [rejeté] + 55 pour la
-correction dos du téléphone, mode high_quality).
+correction dos du téléphone + 55 pour la tenue de soirée, mode high_quality).
